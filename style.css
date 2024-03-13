@@ -1,0 +1,27 @@
+tr{
+    text-align: center;
+}
+table{
+    outline: 3px solid black;
+}
+.container{
+    margin-top: 50px;
+} 
+#footer{
+    background-color: green;
+    color: white;
+}
+#header{
+    background-color: green;
+    color: white;
+}
+h1{
+    text-align: center;
+    padding-bottom: 10px;
+}
+#text{
+    text-align: center;
+    background-color: blue;
+    padding: 10px;
+    color: white;
+}
